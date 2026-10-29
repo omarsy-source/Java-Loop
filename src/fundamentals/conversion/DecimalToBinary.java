@@ -1,4 +1,4 @@
-package exercises;
+package fundamentals.conversion;
 
 import java.util.Scanner;
 
