@@ -1,5 +1,7 @@
 # Java Fundamentals
 
+> **Consolidated collection:** Java, SQL, and Python exercises are now organized in [Programming Exercises](https://github.com/omarsy-source/programming-exercises). This repository preserves its earlier source and history.
+
 A growing collection of small Java exercises from my programming studies. The exercises are grouped by topic and run independently.
 
 **Focus:** loops, conditions, console input, and numeric conversion. Class and variable names are in English; simple German comments explain the code.
